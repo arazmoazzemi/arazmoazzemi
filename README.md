@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Araz</h1>
 <h3 align="center">I think this is a good place to categorize what we have learned, And I love to share what I've learned with others(I'm devoted to you):wink:</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arazmoazzemi&label=Profile%20views&color=0e75b6&style=flat" alt="arazmoazzemi" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arazmoazzemi" alt="arazmoazzemi" /></a> </p>
 
