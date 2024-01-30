@@ -1,47 +1,50 @@
-<h1 align="center">Hi 👋, I'm Araz</h1>
-<h3 align="center">Introduction:
+<h1 align="center">Hi there 👋, I'm Araz Moazzemi</h1>
 
-Hello, I'm ARAZ MOAZZEMI, a passionate Python programmer with a keen interest in leveraging technology to solve real-world challenges. My journey in the realm of programming started with a fascination for logical problem-solving, and over the years, it has evolved into a love for developing efficient and scalable solutions using Python.
-
-Professional Background:
-
-I bring a wealth of experience in Python programming, with a focus on creating robust applications and tools. My expertise extends to various domains, including web development, data analysis, and automation. I am dedicated to writing clean, maintainable code that adheres to industry best practices and standards.
-
-GitHub Enthusiast:
-
-As an active member of the GitHub community, I contribute to open-source projects and share my own creations. You can find my diverse portfolio of projects on my GitHub profile, showcasing my skills in Python, Git, and collaborative development. I believe in the power of collaboration and open-source contributions to drive innovation and knowledge-sharing within the developer community.
-
-Current Focus:
-
-Currently, I am exploring new horizons in Python development, staying updated with the latest trends, libraries, and frameworks. My passion for continuous learning drives me to stay ahead in the ever-evolving field of technology.</h3>
-
----
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arazmoazzemi" alt="arazmoazzemi" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/arazmoazzemi" target="blank"><img src="https://img.shields.io/twitter/follow/arazmoazzemi?logo=twitter&style=for-the-badge" alt="arazmoazzemi" /></a> </p>
-
-- 🔭 I’m currently working on **MODALAL Co. ITC unit**
-
-- 🌱 I’m currently learning **devops technologies cultured, And independent tools**
-
-- 👯 I’m looking to collaborate on **python projects**
-
-- 📫 How to reach me **arazmoazzemi@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/arazmoazzemi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arazmoazzemi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/araz moazzemi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="araz moazzemi" height="30" width="40" /></a>
-<a href="https://fb.com/araz moazzemi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="araz moazzemi" height="30" width="40" /></a>
+<p align="center">
+  <b>Passionate Python Programmer | GitHub Enthusiast</b>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+<h3 align="center">Introduction:</h3>
+<p align="center">
+  Hello, I'm Araz Moazzemi, a dedicated Python programmer with a passion for leveraging technology to solve real-world challenges. My programming journey began with a fascination for logical problem-solving, evolving over the years into a love for developing efficient and scalable solutions using Python.
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arazmoazzemi&show_icons=true&locale=en&layout=compact" alt="arazmoazzemi" /></p>
+<h3 align="center">Professional Background:</h3>
+<p align="center">
+  I bring a wealth of experience in Python programming, focusing on creating robust applications and tools. My expertise spans various domains, including web development, data analysis, and automation. I'm committed to writing clean, maintainable code adhering to industry best practices and standards.
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arazmoazzemi&show_icons=true&locale=en" alt="arazmoazzemi" /></p>
+<h3 align="center">GitHub Enthusiast:</h3>
+<p align="center">
+  As an active member of the GitHub community, I contribute to open-source projects and share my creations. Explore my diverse portfolio on my <a href="https://github.com/arazmoazzemi">GitHub profile</a>, showcasing skills in Python, Git, and collaborative development. I believe in the power of collaboration and open-source contributions to drive innovation and knowledge-sharing within the developer community.
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arazmoazzemi&" alt="arazmoazzemi" /></p>
+<h3 align="center">Current Focus:</h3>
+<p align="center">
+  Currently exploring new horizons in Python development, staying updated with the latest trends, libraries, and frameworks. My passion for continuous learning drives me to stay ahead in the ever-evolving field of technology.
+</p>
 
+<h3 align="center">Connect with Me:</h3>
+<p align="center">
+  <a href="https://twitter.com/arazmoazzemi" target="blank">
+    <img src="https://img.shields.io/twitter/follow/arazmoazzemi?logo=twitter&style=for-the-badge" alt="Twitter"/>
+  </a>
+</p>
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <!-- Add other icons here -->
+</p>
+
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arazmoazzemi&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arazmoazzemi&show_icons=true&locale=en" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arazmoazzemi&" alt="GitHub Streak"/>
+</p>
